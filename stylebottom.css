@@ -3,16 +3,23 @@ body{
 }
 
 
-button{
-	border-bottom:hide border;
-	border-top:hide border;
-	border-left:hide border;
-	border-right:hide border;
-	color:white;
-	background-color:red;
-	width:20%;
+#red{
+	
+	/*border-top:1px solid black;
+	border-left:1px solid black;
+	border-right:1px solid black;
+	color:white;*/
+	/*background-color:red;*/
+	/*border-top-style: 10px solid black;*/
+	width:200px;
 	height:60px;
+	background-color: red;
+	border-left:0px solid black;
+	border-right:0px solid black;
+	border-top:0px solid black;
+	border-bottom:6px outset;
 
+	border-radius: 10px
 
  
 }
