@@ -14,7 +14,7 @@ body{
 	color:white;*/
 	/*background-color:red;*/
 	/*border-top-style: 10px solid black;*/
-	width:420px;
+	width:230px;
 	height:80px;
 	background-color: red;
 	border-left:0px solid black;
@@ -28,7 +28,7 @@ body{
 }
  
  .one{
- 	width:420px;
+ 	width:230px;
  	height:80px;
  	background-color:green;
  	border-top:0px solid black;
@@ -38,7 +38,7 @@ body{
  }
 
  .two{
- 	width:420px;
+ 	width:230px;
  	height:80px;
  	background-color:skyblue;
  	border-top:0px solid black;
@@ -48,19 +48,18 @@ body{
  }
 
  .three{
- 	width:420px;
+ 	width:230px;
  	height:80px;
  	background-color:tomato;
  	border-top:0px solid black;
  	border-left:0px solid black;
  	border-right:0px solid black;
- 	border-bottom:3px outset black;
- }
+ 	}
 
 .four{
- 	width:420px;
+ 	width:230px;
  	height:80px;
- 	background-color:orange;
+ 	background-color:#F57E32;
  	border-top:0px solid black;
  	border-left:0px solid black;
  	border-right:0px solid black;
@@ -68,9 +67,9 @@ body{
  }
 
 .five{
- 	width:420px;
+ 	width:230px;
  	height:80px;
- 	background-color:darkblue;
+ 	background-color:#24D1E7 ;
  	border-top:0px solid black;
  	border-left:0px solid black;
  	border-right:0px solid black;
@@ -78,34 +77,80 @@ body{
  }
 
 .six{
- 	width:420px;
+ 	width:230px;
  	height:80px;
- 	background-color:pink;
+ 	background-color:#F8F173 ;
  	border-top:0px solid black;
  	border-left:0px solid black;
  	border-right:0px solid black;
  	border-bottom:3px outset black;
- 	border-radius:15px;
+ 	
  }
 
  .seven{
- 	width:420px;
+ 	width:230px;
  	height:80px;
- 	background-color:darkgreen;
+ 	background-color:#73B0F8 ;
  	border-top:0px solid black;
  	border-left:0px solid black;
  	border-right:0px solid black;
  	border-bottom:3px outset black;
- 	border-radius:8px;
+ 	
  }
 
  .eight{
- 	width:420px;
- 	height:80px;s
+ 	width:230px;
+ 	height:80px;
+ 	background-color:#ED9300 ;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ 	border-radius:25px;
+ 	
+ }
+
+.nine{
+ 	width:230px;
+ 	height:80px;
+ 	background-color:#DE37D0;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ 	border-radius:25px;
+ 	
+ }
+
+
+   .ten{
+ 	width:230px;
+ 	height:80px;
+ 	background-color:#0C7703;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ 	border-radius:25px 0px 25px 0px;
+
+ 	 }
+
+ 	 .eleven{
+ 	width:230px;
+ 	height:80px;
  	background-color:black;
  	border-top:0px solid black;
  	border-left:0px solid black;
  	border-right:0px solid black;
  	border-bottom:3px outset black;
- 	border-radius:8px;
- }
+ 	border-radius:25px 0px 25px 0px;
+
+ 	 }
+
+
+
+
+
+
+    
+    
