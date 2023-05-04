@@ -1,0 +1,111 @@
+body{
+	background-color:yellow;
+}
+*{
+	color:white;
+}
+
+
+.red{
+	
+	/*border-top:1px solid black;
+	border-left:1px solid black;
+	border-right:1px solid black;
+	color:white;*/
+	/*background-color:red;*/
+	/*border-top-style: 10px solid black;*/
+	width:420px;
+	height:80px;
+	background-color: red;
+	border-left:0px solid black;
+	border-right:0px solid black;
+	border-top:0px solid black;
+	border-bottom:3px outset black;
+
+	
+
+ 
+}
+ 
+ .one{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:green;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ }
+
+ .two{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:skyblue;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ }
+
+ .three{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:tomato;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ }
+
+.four{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:orange;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ }
+
+.five{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:darkblue;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ }
+
+.six{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:pink;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ 	border-radius:15px;
+ }
+
+ .seven{
+ 	width:420px;
+ 	height:80px;
+ 	background-color:darkgreen;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ 	border-radius:8px;
+ }
+
+ .eight{
+ 	width:420px;
+ 	height:80px;s
+ 	background-color:black;
+ 	border-top:0px solid black;
+ 	border-left:0px solid black;
+ 	border-right:0px solid black;
+ 	border-bottom:3px outset black;
+ 	border-radius:8px;
+ }
